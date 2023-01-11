@@ -1,1 +1,1 @@
-Coming soon!
+# Burger of the Day API
