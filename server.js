@@ -9,7 +9,7 @@ app.locals.recipes = [
     id: 1,
     name: '"New Bacon-ings" - Comes with Bacon',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'A classic all-beef patty topped with lettuce, cheddar cheese, onion, tomato, and bacon. It\’s what George Washington was fighting for. It\’s what the Statue of Liberty wishes it was holding instead of a dumb torch. So use the freshest ingredients you can find, down to the bun.',
     ingredients: ['1 lb bacon', 'russet potatoes', 'cooking oil (peanut recommended)', '1 lb ground beef', '1 cup whole milk', '1 large egg', '4 buns', 'green leaf lettuce', '1 tomato, sliced', '1 red onion'],
     instructions: [
@@ -39,7 +39,7 @@ app.locals.recipes = [
     id: 2,
     name: 'Eggers Can\'t Be Cheesers Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with American cheese and a fried egg sunny-side up. Served with hot sauce and a piece of lettuce on a plain bun. It\’s eggsactly as eggstraordinary as it sounds. Eggs.',
     ingredients: ['1 lb ground beef', '8 slices American cheese', '4 large eggs', 'butter', '4 English muffins', 'green leaf lettuce', 'hot sauce (optional)'],
     instructions: [
@@ -68,7 +68,7 @@ app.locals.recipes = [
     id: 3,
     name: 'A Good Manchego is Hard to Find Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'A burger topped with caramelized shallots, Manchego cheese, and a generous helping of fig jam. Fig jam! Banned. Banned!! Remember? From the show?',
     ingredients: ['2 tablespoons butter', '6 shallots, peeled and thinly sliced', '1 lb ground beef', '1 small block Manchego cheese, sliced', 'fig jam', '4 buns', 'arugla or boston lettuce'],
     instructions: [
@@ -90,7 +90,7 @@ app.locals.recipes = [
     id: 4,
     name: 'Totally Radish Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with a refreshingly crunchy-creamy-spicy mix of crème fraîche, cucumbers, dill, and radishes. Slice any leftover radishes for a fancy garnish. Your friends will say “Hey, nice garnish.”',
     ingredients: ['1 cucumber, peeled', '10-12 radishes', '1/3 cup crème fraîche', '1 tablespoon chopped fresh dill', '1 lb ground beef', 'green leaf lettuce', '4 french rolls (plain buns are fine, too)'],
     instructions: [
@@ -116,7 +116,7 @@ app.locals.recipes = [
     id: 5,
     name: 'Poblano Picasso Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with a spicy poblano salsa verde, fresh tomatoes, and Monterey Jack cheese. A Picasso never tasted so good. I mean, we\’re assuming his paintings tasted terrible. Anyway, this burger is delicious.',
     ingredients: ['1/4 cup chopped white onions', '1 teaspoon butter', '1 large pablano pepper, stemmed, halved lengthwise, and seeded', '4 tomatillos, husked and quarter', '1 Jalapeño pepper', '1 lb ground beef', '4 slices Monterey Jack cheese', '4 buns', 'green leaf lettuce', '1 large tomato, thickly sliced'],
     instructions: [
@@ -150,7 +150,7 @@ app.locals.recipes = [
     id: 6,
     name: 'Do the Brussel Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Brussels sprouts. As kids, we hid them in potted plants close so we wouldn\’t have to eat them, and as adults, we love \‘em. Life\’s funny, isn\’t it? This lightly seasoned bacon burger topped with sautéed sprouts and pistachios will have you “doin\’ the brussel” right at the table.',
     ingredients: ['1/2 lb bacon', '1/3 lb brussel sprouts, thinly sliced,', '1/4 cup shelled pistachios, roughly chopped', '1 lb ground beef', '4 buns', 'green leaf lettuce', 'sour cream'],
     instructions: [
@@ -180,7 +180,7 @@ app.locals.recipes = [
     id: 7,
     name: 'It\'s Fun to Eat at the Rye-Mca Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'All-beef patties on rye bread topped with cheddar cheese, brown mustard, caramelized onions and horseradish. Or, if you\’re a stickler for episode accuracy, you can substitute sliced avocado for the horseradish.',
     ingredients: ['1 tablespoon butter', '1/2 medium onion, sliced', '1 lb ground beef', 'thickly sliced cheddar cheese', 'sliced rye bread', 'boston or green leaf lettuce', '4 teaspoons prepared horseradish (or 1 avocado, sliced', 'brown mustard'],
     instructions: [
@@ -202,7 +202,7 @@ app.locals.recipes = [
     id: 8,
     name: 'If Looks Could Kale Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This all-beef patty is topped with deliciously complex Gruyère cheese and crispy roasted kale. Serve on a toasted whole wheat bun with a side of rosemary orzo salad. This burger gives you instant kale-bragging rights—you jumped on the kale train and you\’re riding it all the way to flavor town.',
     ingredients: ['3 1/4 cups low-sodium chicken stock', '2 cups orzo', '1/3 cup diced tomatoes', '2 sprigs fresh rosemary, leaves finely chopped', 'olive oil', '1 lb ground beef', '1 cup grated Gruyère cheese', '4 whole wheat or whole grain buns', '1 big bunch kale, setms removed and leaves cut into ribbons', '4 cloves garlic, minced', 'olive oil', '2 tablespoons red wine vinegar'],
     instructions: [
@@ -228,7 +228,7 @@ app.locals.recipes = [
     id: 9,
     name: 'The Final Kraut Down Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Sweet Bavarian sauerkraut, caramelized onions, Swiss cheese, and burger, served on a Kaiser roll. Bavarian style is a much milder, sweeter style of sauerkraut, so quit fighting it! Give in! Give in to Bavaria!',
     ingredients: ['1 tablespoon butter', '1 vidalia onion, chopped', '1 14.5 ounce can Bavarian-style sauerkraut, drained and rinsed', '1 lb ground beef', 'Swiss chesse, sliced', '4 kaiser rolls', 'dijon mustard'],
     instructions: [
@@ -254,7 +254,7 @@ app.locals.recipes = [
     id: 10,
     name: 'Bruschetta Bout It Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with bruschetta and fresh mozzarella cheese, dressed with balsamic vinegar, and served on toasted French bread. Delicious, easy, and full of bold bright flavors. Just like the mafia!',
     ingredients: ['5 roma tomatoes, seeded and chopped into 1/4 inch cubes', '1 clove garlic, minced', '1 bunch fresh basil, leaves stacked, rolled, and cut into thin ribbons', '2 tablespoons olive oil', '1 tablespoon balsamic vinegar', '1 lb ground beef', '1 ball fresh mozzarella, cut into thick slices', 'french bread'],
     instructions: [
@@ -280,7 +280,7 @@ app.locals.recipes = [
     id: 11,
     name: 'Sweaty Palms Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with Parmesan and a spicy hearts of palm and artichoke tapenade. It’s like a tap(enade) dance in your mouth! Ha cha cha!',
     ingredients: ['1 lb ground beef', '1 cup greated Parmesan chees', '1 14-ounce can sliced hearts of palm, whole or sliced', '1 14-ounce can artichoke hearts', '2 cloves garlic', '10 pitted green olives', '8 pitted kalamata olives', '1 Serrano chili', '5 leaves fresh basil', '2 tablespoons olive oil', '1 tablespoon balsamic vinegar', '4 buns'],
     instructions: [
@@ -302,7 +302,7 @@ app.locals.recipes = [
     id: 12,
     name: 'Poutine on the Ritz Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Oh, Canada! This friends-from-the-north-inspired recipe is made up of an all-beef patty topped with fresh cheese curds, brown gravy, and Ritz cracker crumbs. And it comes with a side of poutine fries. It\’s the kind of meal that makes your heart say, “Why do you hate me?” But it\’s delicious enough for you to say to your heart, “Deal with it, you baby!” Like a good man, fresh cheese curds may be a bit hard to find, but you can usually get them at higher end grocery stores or local dairies.',
     ingredients: ['3 tablespoons black pepper, divided', '2 tablespoons paprika', '2 teaspoons cayenne pepper', 'russet potatoes', '4 tablespoons butter', '6 tablespoons flour', '3 cups beef stock', '1 lb ground beef', 'salt', '4 buns', 'fresh cheese curds', '1 sleeve Ritz crackers'],
     instructions: [
@@ -340,7 +340,7 @@ app.locals.recipes = [
     id: 13,
     name: 'Every Breath You Tikka Masala Burger',
     price: '$5.95',
-    servings: 8, 
+    servings: "8 burgers", 
     description: 'A delicious Indian-inspired burger topped with masala basmati rice and Thai basil. We suggest lamb. Ground lamb sounds cruel, like something an ogre would eat, but lamb might become your new favorite exotic burger meat. The contrast between the basil and the masala is also delicious. Serve with a side of sweet and spicy potatoes.',
     ingredients: ['2 cups basmati rice', '3 large potatoes, diced', '4 sweet peppers (not bell peppers), finely diced', '1 hot chile pepper, seeded and finely diced', '2 tablespoons butter', 'paprika', '1 large onion, coarsely diced', '1 clove garlic, minced', '2 14.5-ounce cans whole plum tomatoes', '1 teaspoon ground cumin', '1 teaspoon ground curry powder', '1 teaspoon ground ginger', '1 teaspoon salt', '1 tablespoon garam masala', '1 cup plain yogurt', '2 lb ground beef or lamb', '8 buns', 'fresh Thai basil leaves (1 cup)'],
     instructions: [
@@ -386,7 +386,7 @@ app.locals.recipes = [
     id: 14,
     name: 'Hit Me with Your Best Shallot Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'How French can we get? This French! This thyme-seasoned burger is topped with caramelized shallots, has a creamy chèvre spread, and is served on a fresh French bread-style roll.',
     ingredients: ['10 small shallots', '3 tablespoons butter', '1 tablespoon red wine vinegar', '2 sprigs rosemary', '2 sprigs sage', '1 lb ground beef', '1 teaspoon chopped fresh thyme', '1 4-ounce log chèvre', '4 French rolls', 'Arugula'],
     instructions: [
@@ -412,7 +412,7 @@ app.locals.recipes = [
     id: 15,
     name: 'I\'ve Created a Muenster Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Perfect patties topped with sautéed mushrooms and smothered in muenster cheese, with a dollop of ketchup and lettuce for a bit of color. Muenster is a pretty subtle cheese, but it adds a lot of texture to this burger. (Muenster also happens to be number four on Gene\’s “Cheeses That Please Me” list. Check often, he updates that list frequently.)',
     ingredients: ['1 10-ounce package white button mushrooms, sliced', '2 tablespoons butter', '1 lb ground beef', '8 thick slices of Muenster cheese', '4 buns', 'green leaf lettuce', 'ketchup'],
     instructions: [
@@ -438,7 +438,7 @@ app.locals.recipes = [
     id: 16,
     name: 'The Jack-O\'-Lentil Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with a mixture of orange lentils, serrano chiles, garlic, and onions. A light spread of herb-coated chèvre cheese and some fresh spinach finish it off with a rich, over-the-top flavor. We\’re talking about Over the Top, the movie—this hamburger tastes like arm wrestling. Adding ginger, honey, garlic, serrano chiles, and onions makes the lentils come alive with flavor (once the lentils come to life, you must feed them three times a day).',
     ingredients: ['1 cup dried orange lentils', '5 cloves garlic, minced', '1/2 green bell pepper, diced', '2 celery stalks, finely diced', '1/2 onion, diced', '3 serrano chiles, seeded and finely diced', 'olive oil', '1 tablespoon honey', '2 teaspoons ground ginger', '1 lb ground beef', '4 buns', '1 4-ounce log chèvre, room temperature', '1 bag baby spinach'],
     instructions: [
@@ -502,7 +502,7 @@ app.locals.recipes = [
     id: 18,
     name: 'Pickle Me Funny Bone Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Pickles are good. Fried pickles are even better. Which means that a burger with fried pickles is the greatest thing in the history of the world. This all-beef patty is topped with delicious dill chips coated in an herb and red pepper batter and served with a creamy mayo–ketchup–hot sauce combo.',
     ingredients: ['vegetable or canola oil for frying', '1/3 cup flour', '1/3 cup cornmeal', '1 egg', '1 tablespoon Italian seasoning', '1 teaspoon crushed red pepper flakes', '1 16-ounce jar kosher dill pickle chips', '4 buns', '1/2 cup mayonnaise', '1 tablespoon Frank\'s Red Hot sauce, or to taste', '1 teaspoon ketchup, or to taste', '1 lb ground beef', 'green leaf lettuce'],
     instructions: [
@@ -536,7 +536,7 @@ app.locals.recipes = [
     id: 19,
     name: '50 Ways to Leave Your Guava Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This sweet burger comes with bacon and a tropical guava barbecue sauce. To make it even sweeter and even more tropical, you can optionally add a ring of grilled pineapple.',
     ingredients: ['4 tablespoons tomato paste', '1 10-ounce jar guava jelly', '1/4 cup rum', '1 teaspoon Worcestershire sauce', '1 teaspoon tamari (or soy sauce)', '1 tablespoon ground ginger', '1/2 lb bacon', '1 lb ground beef', '4 buns', '4 pineapple rings, sliced 1/4-inch thick', 'green leaf lettuce'],
     instructions: [
@@ -562,7 +562,7 @@ app.locals.recipes = [
     id: 20,
     name: 'Chile Relleno-You-Didn\'t Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This burger is a bit of a challenge—like breathing quietly through your nose—but it definitely is tasty. Cheese-stuffed poblano peppers, grilled, battered, and fried, served on top of a hamburger, all on a toasted bun. It\’s a great combo, even if it does look like a pepper got confused and took a nap on a burger.',
     ingredients: ['2 large poblano peppers, halved and seeded', '4 eggs, at room temperature', '1 cup shredded Monterey Jack cheese', 'canola oil, for frying', '1 lb ground beef', '1/2 teaspoon salt', '1 tablespoon paprika', '2 teaspoons cumin', '4 buns', 'green leaf lettuce'],
     instructions: [
@@ -600,7 +600,7 @@ app.locals.recipes = [
     id: 21,
     name: 'Is This Your Chard? Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This delicious all-beef burger comes with wilted red Swiss chard, caramelized onions, and creamy chèvre cheese on a French roll. You\’ll appreciate how the creamy cheese pairs with the wet and wilted Swiss chard so much, you\’ll wonder why France and Switzerland don\’t do more stuff together.',
     ingredients: ['1 big bunch of Swiss chard, stalks removed, leaves cut into wide ribbons', '1 large yellow onion, chopped', '2 tablespoons butter, divided', '1 lb ground beef', '3 cloves garlic, minced', '4 tablespoons red wine vinegar', '1 4-ounce log chèvre, at room temperature', '4 French rolls'],
     instructions: [
@@ -626,7 +626,7 @@ app.locals.recipes = [
     id: 22,
     name: 'Enokie Dokie Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This is an all-beef burger served on a bed of fresh baby spinach topped with enoki mushrooms and carrots braised in a soy-ginger-sake broth. You could also substitute a tuna burger here. If you do, use freshly ground tuna from your fishmonger. Don\’t have a fishmonger? Get one. Who are you going to trust to mong your fish if not a fishmonger. Enoki mushrooms are definitely odd-looking and their mild taste is hard to describe, but their deliciousness once infused with these amazing Asian flavors will have you thinking that enoki mushrooms look normal and it\’s everything else that looks weird.',
     ingredients: ['1 tablespoon canola oil', '2 carrots, peeled and cut into matchsticks (about 1 cup)', '1/4 cup minced or grated ginger', '6 ounces enoki mushrooms, washed well', '1/4 cup sake', '1 tablespoon soy sauce', '1 lb ground beef or tuna', '1 bag baby spinach', '4 buns'],
     instructions: [
@@ -648,7 +648,7 @@ app.locals.recipes = [
     id: 23,
     name: 'Sympathy for the Deviled Egg Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This burger features an all-beef patty topped with egg salad, served on a kaiser roll. Flavor and protein. That sums up this burger and is also a good name for a ventriloquism act.',
     ingredients: ['7 eggs', '1 teaspoon vinegar', '1/3 cup mayo', '1 teaspoon juice from a jar of sweet pickles', '1 teaspoon spicy brown mustard', '1 teaspoon paprika', '1 lb ground beef', '1 teaspoon pepper', '4 buns'],
     instructions: [
@@ -682,7 +682,7 @@ app.locals.recipes = [
     id: 24,
     name: 'Hummus a Tune Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'An all-beef patty topped with Mediterranean meze-platter favorites: homemade roasted red peppers and garlicky hummus. This turns your burger into a real chickpea magnet. Get it? Because hummus is made from chickpeas? Never mind. Optionally, you could use a mixture of ground beef and lamb called lula, found at Middle Eastern butchers or markets, for this recipe.',
     ingredients: ['2 large red peppers, stemmed, halved, cored, and seeded', '1 14.5-ounce can cannellini beans', '1 14.5-ounce can garbanzo beans', '1 1/2 teaspoons lemon juice', '1 tablespoon minced garlic', '1/4 cup olive oil', '2 tablespoons sesame oil (or tahini, if you have it)', '1 teaspoon salt', '1 teaspoon black pepper', '1 lb ground beef', 'green leaf lettuce', '4 buns'],
     instructions: [
@@ -708,7 +708,7 @@ app.locals.recipes = [
     id: 25,
     name: 'The Cauliflower\'s Cumin from Inside the House Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Be hungry. Be very hungry. You\’ll want to savor this all-beef patty topped with pepper jack cheese, lettuce, tomato, and of course, the “3 C\’s”—a combo of: cauliflower, cumin, and cilantro.',
     ingredients: ['1 head cauliflower', '1 generous tablespoon olive oil', '1/2 cup whole milk', '2 tablespoons chpped cilantro', '1 tablespoon cumin', '3 teaspoons fresh lime juice', '1 lb ground beef', '4 slices pepper jack cheese', '4 buns', 'green leaf lettuce', '1 large tomato, thickly sliced'],
     instructions: [
@@ -814,9 +814,9 @@ app.locals.recipes = [
     id: 28,
     name: 'Bet It All on Black Garlic Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Winner winner, burger dinner! This all-beef patty is topped with fresh mozzarella, spinach, homemade black garlic mayo and a dash of Sriracha hot sauce. Black garlic is soft and chewy, incredibly sweet, with an earthy aroma, and you don\’t need a pig to sniff it out. Those are truffles. You can find black garlic in specialty food markets and online.',
-    ingredients: [],
+    ingredients: ['1 bulb black garlic, peeled', '1/2 cup mayonnaise', 'salt', 'Sriracha', '1 lb ground beef', 'black pepper', '1 ball mozzarella cheese, sliced', '4 buns', '1 bag baby spinach'],
     instructions: [
       {
         step: 1,
@@ -828,7 +828,7 @@ app.locals.recipes = [
     id: 29,
     name: 'Mission A-Corn-Plished Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'This all-beef patty is grilled and served with a sweet corn salsa on a roll. The sweetness of the corn salsa makes a tasty contrast with the savory taco seasoning. Also, the corn salsa is going to fall all over the place. Our advice? Relax and enjoy it both on the burger and on the side. Or melt some Mexican-style cheese onto your patties to hold the salsa in place, like a creamy little car seat for corn salsa.',
     ingredients: [],
     instructions: [
@@ -842,7 +842,7 @@ app.locals.recipes = [
     id: 30,
     name: 'Shoot Out At The Okra Corral Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 burgers", 
     description: 'Fried green tomatoes and a homemade dill ranch dressing top a well-seasoned all-beef patty, all on a hot buttered bun. The heat from the combination of black, white, and cayenne peppers is cooled by the creamy ranch and fresh dill. Serve with a side of fried okra and ranch. So it\’s kind of a Shoot Out at the Okra Ranch Burger, but that\’s fine, right?',
     ingredients: [],
     instructions: [
