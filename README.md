@@ -1,5 +1,5 @@
 # Burger of the Day API
-This application is the back-end server for my Burger of the Day front-end application.
+This application is the back-end server for my Burger of the Day UI project.
 
 ## Getting started
 
