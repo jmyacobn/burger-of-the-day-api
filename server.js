@@ -61,7 +61,7 @@ app.locals.recipes = [
       },
       {
         step: 5,
-        instruction: 'Grab a napkin -- you\'ll need it!'
+        instruction: 'Grab a napkin - you\'ll need it!'
       }],
   },
   {
@@ -82,7 +82,7 @@ app.locals.recipes = [
       },
       {
         step: 3,
-        instruction: 'Build your burger: bottom bun, then the cheeseburger, arugula, and sautéed shallots. Spread the fig jam on the top bun. Spread happiness in your face.'
+        instruction: 'Build your burger: Bottom bun, then the cheeseburger, arugula, and sautéed shallots. Spread the fig jam on the top bun. Spread happiness in your face.'
       }
     ],
   },
@@ -142,7 +142,7 @@ app.locals.recipes = [
       },
       {
         step: 6,
-        instruction: 'Build your burger: bottom bun, cheeseburger, a generous helping of salsa verde, tomato, and the top bun. You\'re poblano-ly gonna love this one. Get it? Like probably?'
+        instruction: 'Build your burger: Bottom bun, cheeseburger, a generous helping of salsa verde, tomato, and the top bun. You\'re poblano-ly gonna love this one. Get it? Like probably?'
       }
     ],
   },
@@ -172,7 +172,7 @@ app.locals.recipes = [
       }, 
       {
         step: 5,
-        instruction: 'Build your burger: bottom bun, burger, bacon, brussel sprouts mixture, a dallop of sour cream, and your top bun. Dollop. Dollop. That\'s a great word, dollop.'
+        instruction: 'Build your burger: Bottom bun, burger, bacon, brussel sprouts mixture, a dallop of sour cream, and your top bun. Dollop. Dollop. That\'s a great word, dollop.'
       }, 
     ],
   },
@@ -246,7 +246,7 @@ app.locals.recipes = [
       },
       {
         step: 4,
-        instruction: 'Build your burger: bottom roll, cheeseburger, sauerkraut-onion mixture, mustar, top roll'
+        instruction: 'Build your burger: Bottom roll, cheeseburger, sauerkraut-onion mixture, mustar, top roll'
       }
     ],
   },
@@ -332,7 +332,7 @@ app.locals.recipes = [
       }, 
       {
         step: 7,
-        instruction: 'For the fries, simply mix in some cheese curds and pour some gravy on top. You can do this with loose change or a bucket of golf balls too, but do not eat -- it would just be for fun in that situation.'
+        instruction: 'For the fries, simply mix in some cheese curds and pour some gravy on top. You can do this with loose change or a bucket of golf balls too, but do not eat - it would just be for fun in that situation.'
       }
     ],
   },
@@ -362,7 +362,7 @@ app.locals.recipes = [
       },
       {
         step: 5,
-        instruction: 'Masala: Sauté the onion over medium-high heat in the remaining tablespoon of butter until translucent. Add the garlic. Add the tomatoes and their juice to the onions and keep the mixture at a simmer. Add in the cumin, curry powder, and ginger. Wait for the tomatoes "to sweat" -- release their liquid. Add in the salt and masala. Let the mixture reduce for about 10 minutes, and then remove from heat. Give it some time to cool (unit you can touch it without burning your finger).'
+        instruction: 'Masala: Sauté the onion over medium-high heat in the remaining tablespoon of butter until translucent. Add the garlic. Add the tomatoes and their juice to the onions and keep the mixture at a simmer. Add in the cumin, curry powder, and ginger. Wait for the tomatoes "to sweat" - release their liquid. Add in the salt and masala. Let the mixture reduce for about 10 minutes, and then remove from heat. Give it some time to cool (unit you can touch it without burning your finger).'
       },
       {
         step: 6,
@@ -444,7 +444,7 @@ app.locals.recipes = [
     instructions: [
       {
         step: 1,
-        instruction: 'Cook your lentils according to package directions. Put them in water, and simmer until firm but not mushy. It\s super-easy to overcook them -- don\'t do that.'
+        instruction: 'Cook your lentils according to package directions. Put them in water, and simmer until firm but not mushy. It\s super-easy to overcook them - don\'t do that.'
       },
       {
         step: 2,
@@ -470,7 +470,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: "6 sliders", 
     description: 'All-beef sliders topped with sautéed zucchini, yellow bell pepper, and a dill infused yogurt sauce. Serve with a side of sweet potato fries.',
-    ingredients: ['sweet potatoes', '1 lb ground beef', '2 zucchini, sliced into rounds', '1 tablespoon olive oil', '1 yellow bell pepper, finely diced', '1 tablespoon chopped fresh dill', '1 cup plain yogurt', '6 slider buns -- look for mini Brioche slider buns'],
+    ingredients: ['sweet potatoes', '1 lb ground beef', '2 zucchini, sliced into rounds', '1 tablespoon olive oil', '1 yellow bell pepper, finely diced', '1 tablespoon chopped fresh dill', '1 cup plain yogurt', '6 slider buns - look for mini Brioche slider buns'],
     instructions: [
       {
         step: 1,
@@ -670,11 +670,11 @@ app.locals.recipes = [
       },
       {
         step: 5,
-        instruction: 'Form the beef into 4 patties and season both sides lightly with salt and pepper -- a little less than you\'d usually use. Cook the burgers in your normal fashion.'
+        instruction: 'Form the beef into 4 patties and season both sides lightly with salt and pepper - a little less than you\'d usually use. Cook the burgers in your normal fashion.'
       },
       {
         step: 6,
-        instruction: 'Toast the buns and build your burger: bottom bun, burger, lettuce, a large schmear of the egg mixture, a last dash of paprika, top bun.'
+        instruction: 'Toast the buns and build your burger: Bottom bun, burger, lettuce, a large schmear of the egg mixture, a last dash of paprika, top bun.'
       }
     ],
   },
@@ -820,7 +820,15 @@ app.locals.recipes = [
     instructions: [
       {
         step: 1,
-        instruction: ''
+        instruction: 'Use a food processor to puree the black garlic. Mix in the mayo and add 1/4 teaspoon of salt - add more as needed. This mayo will be very strong, so add in Sriracha to taste.'
+      },
+      {
+        step: 2,
+        instruction: 'Form the beef into 4 slightly larger than usual patties. Season both sides lightly with salt and pepper. Cook the burgers as you normally would. Tent or cover to melt the mozzarella on top.'
+      },
+      {
+        step: 3,
+        instruction: 'Build your burger: Bottom bun, a handful of baby spinach, cheeseburger, a schmear of black garlic-Sriracha mayo, top bun.'
       },
     ],
   },
