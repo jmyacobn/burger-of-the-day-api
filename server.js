@@ -784,14 +784,30 @@ app.locals.recipes = [
     id: 27,
     name: 'Parnsips-Vous Francais Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "8 sliders", 
     description: 'An all-beef burger served on a baguette with sprouts, bleu cheese aïoli (that\’s a fancy term for fancy mayo), and a dash of Dijon mustard. Comes with rosemary-lavender parsnip fries.',
-    ingredients: [],
+    ingredients: ['6 parsnips', '2 teaspoons herbes de Provence', '1 teaspoon dried lavendar', '1 tablespoon olive oil', '1/4 cup bleu cheese', '1/4 cup mayo', '1 to 1 1/2 lb ground beef', '1 baguette', 'Dijon mustard', '2 cups alfalfa sprouts'],
     instructions: [
       {
         step: 1,
-        instruction: ''
+        instruction: 'Preheat your oven to 400\u00B0F. Put the parsnips in a large bowl with the herbes de Provence, lavendar, and olive oil. Toss to coat evenly, and spread on a baking sheet. Cook for 10-15 minutes, until the parsnips start to form some brown spots. Flip the parsnips, and cook 10-15 minutes longer. Set aside.'
       },
+      {
+        step: 2,
+        instruction: 'You can melt the bleu cheese in a small saucepan and then combine with the mayo or crumble it cold and stir the two together.'
+      },
+      {
+        step: 3,
+        instruction: 'Form the beef into 8 small slider-sized patties, season each side with salt and pepper, and cook them as usual.'
+      },
+      {
+        step: 4,
+        instruction: 'Cut your baguette into 16 slider-sized "rounds." Spread the bleu cheese aioli on 8 rounds, adn a layer of Dijon on the remaining 8 rounds.'
+      },
+      {
+        step: 5,
+        instruction: 'Build your sliders: Dijon round, slider, alfalfa sprouts, aioli round. Serve with parsnip fries.'
+      }
     ],
   },
   {
