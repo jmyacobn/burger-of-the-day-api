@@ -230,7 +230,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Sweet Bavarian sauerkraut, caramelized onions, Swiss cheese, and burger, served on a Kaiser roll. Bavarian style is a much milder, sweeter style of sauerkraut, so quit fighting it! Give in! Give in to Bavaria!',
-    ingredients: ['1 tablespoon butter', '1 vidalia onion, chopped', '1 14.5 oz can Bavarian-style sauerkraut, drained and rinsed', '1 lb ground beef', 'Swiss chesse, sliced', '4 kaiser rolls', 'dijon mustard'],
+    ingredients: ['1 tablespoon butter', '1 vidalia onion, chopped', '1 14.5 ounce can Bavarian-style sauerkraut, drained and rinsed', '1 lb ground beef', 'Swiss chesse, sliced', '4 kaiser rolls', 'dijon mustard'],
     instructions: [
       {
         step: 1,
@@ -264,7 +264,7 @@ app.locals.recipes = [
       },
       {
         step: 2,
-        instruction: 'Form 4 pattties, season both sides with salt and pepper, and cook them. Just before they\'re cooked to your liking melt the mozz slices over the burgers. Toast 2 slices of french bread for each burger.'
+        instruction: 'Form 4 pattties, season both sides with salt and pepper, and cook them. Just before they\'re cooked to your liking melt the mozzarella slices over the burgers. Toast 2 slices of french bread for each burger.'
       },
       {
         step: 3,
@@ -738,13 +738,45 @@ app.locals.recipes = [
     id: 26,
     name: 'Human Polenta-Pede Burger',
     price: '$5.95',
-    servings: 4, 
+    servings: "4 sets of 3 sliders", 
     description: 'Three unique, totally delicious sliders, all on polenta “buns”: First, an all-beef slider topped with delicious roasted grape tomatoes and mozzarella cheese, dusted with herb-infused olive oil. Second, a grilled portobello mushroom topped with a red wine reduction, mozzarella cheese, and a layer of fresh arugula. Third, we go back to the beef, with a slider topped with a creamy spinach and artichoke dip.',
-    ingredients: ['1 cup grape tomatoes', '4 tablespoons olive oil, divided', '4 sprigs fresh rosemary'],
+    ingredients: ['1 cup grape tomatoes', '4 tablespoons olive oil, divided', '4 sprigs fresh rosemary', '2 sprigs fresh thyme', '4 cloves garlic, minced', '1 cup red wine', '2 tablespoons butter', '8 ounces cream cheese', '1/4 cup mayo', '1/4 cup sour cream', '1/4 cup grated Parmesan', '1/2 teaspoon garlic powder', '1/4 teaspoon cayenne pepper', '1 bag spinach, roughly chopped', '1 14-ounce can quartered artichoke hearts, roughly chopped', '1 1/2 lb ground beef', '8 portebllo mushrooms, stemmed', '1 tablespoon balsamic vinegar', '2 tubes prepared polenta', '4 slices mozzarella cheese', '1 bag arugula'],
     instructions: [
       {
         step: 1,
-        instruction: ''
+        instruction: 'Preheat your oven to 400\u00B0F. Put the grape tomatoes in a small casserole dish with 3 tablespoons of the olive oil, 2 rosemary sprigs, 1 sprig of thyme, and the garlic. Roast for 20 minutes, or until the tomato skins burst. Transfer the tomatoes to a bowl with a slotted spoon; set aside. Strain the oil and reserve.'
+      },
+      {
+        step: 2,
+        instruction: 'Pour the wine into a small saucepan with the butter, and the remaining rosemary and thyme. Simmer over low heat, stirring often, until reduced to 1/4 cup. Discard solids.'
+      },
+      {
+        step: 3,
+        instruction: 'Heat the cream cheese in a small sauce pan just until very soft. Add the mayo, sour cream, grated parmesan, garlic powder, and cayenne, and stir to combine.'
+      },
+      {
+        step: 4,
+        instruction: 'In a dry frying pan, cook the bag of spinach down until soft and tender. The leaves will wilt quickly and provide their own moisture. Gently toss with tongs to make sure fresh leaves come in contact with the pan. Mix in with the cream cheese.'
+      },
+      {
+        step: 5,
+        instruction: 'Sauté the artichoke hearts in the same pan just to heat them up, and then add them to the spinach and cream cheese mixture. Combine well with a hand mixer.'
+      },
+      {
+        step: 6,
+        instruction: 'Form 8 small slider patties from the beef and season each side with salt and pepper. Cook as usual.'
+      },
+      {
+        step: 7,
+        instruction: 'Cook the portobello mushrooms in a frying pan with the remaining 1 tablespoon olive oil and the balsamic vinegar.'
+      },
+      {
+        step: 8,
+        instruction: 'Cut the polenta into 24 (3/4-inch thick) rounds. Grill or cook in a frying pan with a small bit of oil until browned, about 5 minutes per side.'
+      },
+      {
+        step: 9,
+        instruction: 'Build your sliders: 1. Bottom polenta bun, beef slider, roasted grape tomatoes, 1 slice mozzarella cheese, a drizzle of reserved olive oil, top polenta bun. 2. Bottom polenta bun, portobello mushroom, arugula, drizzle of red wine reduction, top polenta bun. 3. Bottom polenta bun, beef slider, heavy helping of spinach-artichoke mixture, top polenta bun.'
       },
     ],
   },
