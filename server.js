@@ -868,11 +868,31 @@ app.locals.recipes = [
     price: '$5.95',
     servings: "4 burgers", 
     description: 'Fried green tomatoes and a homemade dill ranch dressing top a well-seasoned all-beef patty, all on a hot buttered bun. The heat from the combination of black, white, and cayenne peppers is cooled by the creamy ranch and fresh dill. Serve with a side of fried okra and ranch. So it\’s kind of a Shoot Out at the Okra Ranch Burger, but that\’s fine, right?',
-    ingredients: [],
+    ingredients: ['2 cups buttermilk', '1/2 cup mayonnaise', '2-3 tablespoons chopped fresh dill (based on preference)', 'vegetable or canola oil, for frying', '4-5 green tomatoes, cut into 1/4-inch slices', '1 lb okra, cut into 1/2-inch pieces', '1 cup all purpose flour', '1/2 cup white cornmeal', '1 teaspoon cayenne pepper', '1 1/2 teaspoon onion powder, divided', '1 lb ground beef', '1/2 teaspoon white pepper', '4 buns', 'green leaf lettuce'],
     instructions: [
       {
         step: 1,
-        instruction: ''
+        instruction: 'Ranch dressing: Mix 1 cup buttermilk with 1/2 cup mayo in a bowl and stir vigorously. If it\'s too thin, add more mayo; if too thick, more buttermilk. Add 1/2 teaspoon salt, 1 teaspoon black pepper, and the chopped dill. Mix well.'
+      },
+      {
+        step: 2,
+        instruction: 'Heat your oil to about 350\u00B0F. Combine the flour and cornmeal in a large bowl. Mix in 1/2 teaspoon salt, 1/2 teaspoon black pepper, cayenne, and 1 teaspoon onion powder.'
+      },
+      {
+        step: 3,
+        instruction: 'Tomatoes: Put the remaining cup of buttermilk in a shallow bowl, coat the tomatoes with it, adn then dredge them across the flour/corn meal mixture (keep the buttermilk for the okra in the next step). Frry them until they are light brown in color. Using a slotted spoon, transfer the fried tomatoes to paper towels to drain.'
+      },
+      {
+        step: 4,
+        instruction: 'Okra: Coat them in the buttermilk, and dredge them in the flour/cornmeal mixture. Fry them until they are a golden brown color. Using a slotted spoon, transfer to paper towels to drain.'
+      },
+      {
+        step: 5,
+        instruction: 'Burgers: Season the beef with 1/2 teaspoon salt, 1 teaspoon black pepper, remaining 1/2 teaspoon onion powder, and the white pepper. Carefully form 4 patties. Cook them whichever way you like best.'
+      },
+      {
+        step: 6,
+        instruction: 'Build your burger: Bottom bun, lettuce, burger, fried tomatoes, ranch dressing, top bun. Serve the fried okra on the side, topped with even more ranch. Too much ranch? No such thing. Ever.'
       },
     ],
   },
