@@ -838,12 +838,28 @@ app.locals.recipes = [
     price: '$5.95',
     servings: "4 burgers", 
     description: 'This all-beef patty is grilled and served with a sweet corn salsa on a roll. The sweetness of the corn salsa makes a tasty contrast with the savory taco seasoning. Also, the corn salsa is going to fall all over the place. Our advice? Relax and enjoy it both on the burger and on the side. Or melt some Mexican-style cheese onto your patties to hold the salsa in place, like a creamy little car seat for corn salsa.',
-    ingredients: [],
+    ingredients: ['1 lb ground beef', '6 ounces or so of queso fresco (substitutions: mild French feta)', '4-6 tablespoons taco seasoning', '1 11-ounce can white shoepeg corn, drained', '1/2 yellow onion, diced', 'butter', '1 14.5-ounce can diced tomatoes, drained', '1/2 teaspoon salt', '1 tablespoon pepper', '1 bag arugula', '8 Vienna rolls'],
     instructions: [
       {
         step: 1,
-        instruction: ''
+        instruction: 'Season the beef with the taco seasoning and form into 4 patties; set aside.'
       },
+      {
+        step: 2,
+        instruction: 'Place the corn in a dry frying pan set over high heat. Cook until the corn starts to blacken. Transfer to a large mixing bowl.'
+      },
+      {
+        step: 3,
+        instruction: 'Add the onions to the frying pan with a small bit of butter. Cook over medium heat until translucent. Add the diced tomatoes and cook until hot, then add to the corn, and toss together. Season with salt and pepper.'
+      },
+      {
+        step: 4,
+        instruction: 'Cook your burgers as you normally would. If you\'re using cheese, add it before the burgers finish cooking and tent or cover the patties to help it melt.'
+      },
+      {
+        step: 5,
+        instruction: 'Build your burgers: Bottom roll, burger, arugula, a heaping giant spoonful of corn salsa, top roll. Watch out! The corn salsa is going everywhere! Get under the table! Just kidding, you\'re fine.'
+      }
     ],
   },
   {
