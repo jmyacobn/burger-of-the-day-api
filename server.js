@@ -70,7 +70,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'A burger topped with caramelized shallots, Manchego cheese, and a generous helping of fig jam. Fig jam! Banned. Banned!! Remember? From the show?',
-    ingredients: ['2 tbsp butter', '6 shallots, peeled and thinly sliced', '1 lb ground beef', '1 small block Manchego cheese, sliced', 'fig jam', '4 buns', 'arugla or boston lettuce'],
+    ingredients: ['2 tablespoons butter', '6 shallots, peeled and thinly sliced', '1 lb ground beef', '1 small block Manchego cheese, sliced', 'fig jam', '4 buns', 'arugla or boston lettuce'],
     instructions: [
       {
         step: 1,
@@ -82,7 +82,7 @@ app.locals.recipes = [
       },
       {
         step: 3,
-        instruction: 'Build your own burger: bottom bun, then the cheeseburger, arugula, and sautéed shallots. Spread the fig jam on the top bun. Spread happiness in your face.'
+        instruction: 'Build your burger: bottom bun, then the cheeseburger, arugula, and sautéed shallots. Spread the fig jam on the top bun. Spread happiness in your face.'
       }
     ],
   },
@@ -92,7 +92,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'An all-beef patty topped with a refreshingly crunchy-creamy-spicy mix of crème fraîche, cucumbers, dill, and radishes. Slice any leftover radishes for a fancy garnish. Your friends will say “Hey, nice garnish.”',
-    ingredients: ['1 cucumber, peeled', '10-12 radishes', '1/3 cup crème fraîche', '1 tbsp chopped fresh dill', '1 lb ground beef', 'green leaf lettuce', '4 french rolls (plain buns are fine, too)'],
+    ingredients: ['1 cucumber, peeled', '10-12 radishes', '1/3 cup crème fraîche', '1 tablespoon chopped fresh dill', '1 lb ground beef', 'green leaf lettuce', '4 french rolls (plain buns are fine, too)'],
     instructions: [
       {
         step: 1,
@@ -118,7 +118,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'An all-beef patty topped with a spicy poblano salsa verde, fresh tomatoes, and Monterey Jack cheese. A Picasso never tasted so good. I mean, we\’re assuming his paintings tasted terrible. Anyway, this burger is delicious.',
-    ingredients: ['1/4 cup chopped white onions', '1 tsp butter', '1 large pablano pepper, stemmed, halved lengthwise, and seeded', '4 tomatillos, husked and quarter', '1 Jalapeño pepper', '1 lb ground beef', '4 slices Monterey Jack cheese', '4 buns', 'green leaf lettuce', '1 large tomato, thickly sliced'],
+    ingredients: ['1/4 cup chopped white onions', '1 teaspoon butter', '1 large pablano pepper, stemmed, halved lengthwise, and seeded', '4 tomatillos, husked and quarter', '1 Jalapeño pepper', '1 lb ground beef', '4 slices Monterey Jack cheese', '4 buns', 'green leaf lettuce', '1 large tomato, thickly sliced'],
     instructions: [
       {
         step: 1,
@@ -182,7 +182,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'All-beef patties on rye bread topped with cheddar cheese, brown mustard, caramelized onions and horseradish. Or, if you\’re a stickler for episode accuracy, you can substitute sliced avocado for the horseradish.',
-    ingredients: ['1 tbsp butter', '1/2 medium onion, sliced', '1 lb ground beef', 'thickly sliced cheddar cheese', 'sliced rye bread', 'boston or green leaf lettuce', '4 tsp prepared horseradish (or 1 avocado, sliced', 'brown mustard'],
+    ingredients: ['1 tablespoon butter', '1/2 medium onion, sliced', '1 lb ground beef', 'thickly sliced cheddar cheese', 'sliced rye bread', 'boston or green leaf lettuce', '4 teaspoons prepared horseradish (or 1 avocado, sliced', 'brown mustard'],
     instructions: [
       {
         step: 1,
@@ -204,7 +204,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'This all-beef patty is topped with deliciously complex Gruyère cheese and crispy roasted kale. Serve on a toasted whole wheat bun with a side of rosemary orzo salad. This burger gives you instant kale-bragging rights—you jumped on the kale train and you\’re riding it all the way to flavor town.',
-    ingredients: ['3 1/4 cups low-sodium chicken stock', '2 cups orzo', '1/3 cup diced tomatoes', '2 sprigs fresh rosemary, leaves finely chopped', 'olive oil', '1 lb ground beef', '1 cup grated Gruyère cheese', '4 whole wheat or whole grain buns', '1 big bunch kale, setms removed and leaves cut into ribbons', '4 cloves garlic, minced', 'olive oil', '2 tbsp red wine vinegar'],
+    ingredients: ['3 1/4 cups low-sodium chicken stock', '2 cups orzo', '1/3 cup diced tomatoes', '2 sprigs fresh rosemary, leaves finely chopped', 'olive oil', '1 lb ground beef', '1 cup grated Gruyère cheese', '4 whole wheat or whole grain buns', '1 big bunch kale, setms removed and leaves cut into ribbons', '4 cloves garlic, minced', 'olive oil', '2 tablespoons red wine vinegar'],
     instructions: [
       {
         step: 1,
@@ -230,7 +230,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Sweet Bavarian sauerkraut, caramelized onions, Swiss cheese, and burger, served on a Kaiser roll. Bavarian style is a much milder, sweeter style of sauerkraut, so quit fighting it! Give in! Give in to Bavaria!',
-    ingredients: ['1 tbsp butter', '1 vidalia onion, chopped', '1 14.5 oz can Bavarian-style sauerkraut, drained and rinsed', '1 lb ground beef', 'Swiss chesse, sliced', '4 kaiser rolls', 'dijon mustard'],
+    ingredients: ['1 tablespoon butter', '1 vidalia onion, chopped', '1 14.5 oz can Bavarian-style sauerkraut, drained and rinsed', '1 lb ground beef', 'Swiss chesse, sliced', '4 kaiser rolls', 'dijon mustard'],
     instructions: [
       {
         step: 1,
@@ -256,7 +256,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'An all-beef patty topped with bruschetta and fresh mozzarella cheese, dressed with balsamic vinegar, and served on toasted French bread. Delicious, easy, and full of bold bright flavors. Just like the mafia!',
-    ingredients: ['5 roma tomatoes, seeded and chopped into 1/4 inch cubes', '1 clove garlic, minced', '1 bunch fresh basil, leaves stacked, rolled, and cut into thin ribbons', '2 tbsp olive oil', '1 tbsp balsamic vinegar', '1 lb ground beef', '1 ball fresh mozzarella, cut into thick slices', 'french bread'],
+    ingredients: ['5 roma tomatoes, seeded and chopped into 1/4 inch cubes', '1 clove garlic, minced', '1 bunch fresh basil, leaves stacked, rolled, and cut into thin ribbons', '2 tablespoons olive oil', '1 tablespoon balsamic vinegar', '1 lb ground beef', '1 ball fresh mozzarella, cut into thick slices', 'french bread'],
     instructions: [
       {
         step: 1,
@@ -282,7 +282,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'An all-beef patty topped with Parmesan and a spicy hearts of palm and artichoke tapenade. It’s like a tap(enade) dance in your mouth! Ha cha cha!',
-    ingredients: ['1 lb ground beef', '1 cup greated Parmesan chees', '1 14-ounce can sliced hearts of palm, whole or sliced', '1 14-ounce can artichoke hearts', '2 cloves garlic', '10 pitted green olives', '8 pitted kalamata olives', '1 Serrano chili', '5 leaves fresh basil', '2 tbsp olive oil', '1 tablespoon balsamic vinegar', '4 buns'],
+    ingredients: ['1 lb ground beef', '1 cup greated Parmesan chees', '1 14-ounce can sliced hearts of palm, whole or sliced', '1 14-ounce can artichoke hearts', '2 cloves garlic', '10 pitted green olives', '8 pitted kalamata olives', '1 Serrano chili', '5 leaves fresh basil', '2 tablespoons olive oil', '1 tablespoon balsamic vinegar', '4 buns'],
     instructions: [
       {
         step: 1,
@@ -290,7 +290,7 @@ app.locals.recipes = [
       },
       {
         step: 2,
-        instruction: 'Put everything else (except buns) into a food processor (or mini chopper) and pulse until the mixtture is chunky but spreadable. Then put Chunky But Spreadable on a bumper sticker adn watch the money come rolling in.'
+        instruction: 'Put everything else (except buns) into a food processor (or mini chopper) and pulse until the mixtture is chunky but spreadable. Then put Chunky But Spreadable on a bumper sticker and watch the money come rolling in.'
       },
       {
         step: 3,
@@ -304,11 +304,11 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Oh, Canada! This friends-from-the-north-inspired recipe is made up of an all-beef patty topped with fresh cheese curds, brown gravy, and Ritz cracker crumbs. And it comes with a side of poutine fries. It\’s the kind of meal that makes your heart say, “Why do you hate me?” But it\’s delicious enough for you to say to your heart, “Deal with it, you baby!” Like a good man, fresh cheese curds may be a bit hard to find, but you can usually get them at higher end grocery stores or local dairies.',
-    ingredients: ['3 tbsp black pepper, divided', '2 tablespoons paprika', '2 tsp cayenne pepper', 'russet potatoes', '4 tbsp butter', '6 tbsp flour', '3 cups beef stock', '1 lb ground beef', 'salt', '4 buns', 'fresh cheese curds', '1 sleeve Ritz crackers'],
+    ingredients: ['3 tablespoons black pepper, divided', '2 tablespoons paprika', '2 teaspoons cayenne pepper', 'russet potatoes', '4 tablespoons butter', '6 tablespoons flour', '3 cups beef stock', '1 lb ground beef', 'salt', '4 buns', 'fresh cheese curds', '1 sleeve Ritz crackers'],
     instructions: [
       {
         step: 1,
-        instruction: 'Combine 2 tbsp of black pepper with the paprika and caynee in a large bowl.'
+        instruction: 'Combine 2 tablespoons of black pepper with the paprika and caynee in a large bowl.'
       },
       {
         step: 2,
@@ -320,7 +320,7 @@ app.locals.recipes = [
       },
       {
         step: 4,
-        instruction: 'Gravy: melt butter in a saucepan over medium heat and then whisk in the the flour. Keep whisking until the mix starts to turn light brown and you can smell the toasty aroma. This is now a roux. Add in 2 cups of the beef stock and stir until completely combines. Stir in remaining 1 tbsp black pepper, and then slowly add the remaining stock. It\'s okay to leave some out if you like thicker gravy.'
+        instruction: 'Gravy: melt butter in a saucepan over medium heat and then whisk in the the flour. Keep whisking until the mix starts to turn light brown and you can smell the toasty aroma. This is now a roux. Add in 2 cups of the beef stock and stir until completely combines. Stir in remaining 1 tablespoon black pepper, and then slowly add the remaining stock. It\'s okay to leave some out if you like thicker gravy.'
       },
       {
         step: 5,
@@ -342,7 +342,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 8, 
     description: 'A delicious Indian-inspired burger topped with masala basmati rice and Thai basil. We suggest lamb. Ground lamb sounds cruel, like something an ogre would eat, but lamb might become your new favorite exotic burger meat. The contrast between the basil and the masala is also delicious. Serve with a side of sweet and spicy potatoes.',
-    ingredients: ['2 cups basmati rice', '3 large potatoes, diced', '4 sweet peppers (not bell peppers), finely diced', '1 hot chile pepper, seeded and finely diced', '2 tbsp butter', 'paprika', '1 large onion, coarsely diced', '1 clove garlic, minced', '2 14.5-ounce cans whole plum tomatoes', '1 tsp ground cumin', '1 tsp ground curry powder', '1 tsp ground ginger', '1 tsp salt', '1 tbsp garam masala', '1 cup plain yogurt', '2 lb ground beef or lamb', '8 buns', 'fresh Thai basil leaves (1 cup)'],
+    ingredients: ['2 cups basmati rice', '3 large potatoes, diced', '4 sweet peppers (not bell peppers), finely diced', '1 hot chile pepper, seeded and finely diced', '2 tablespoons butter', 'paprika', '1 large onion, coarsely diced', '1 clove garlic, minced', '2 14.5-ounce cans whole plum tomatoes', '1 teaspoon ground cumin', '1 teaspoon ground curry powder', '1 teaspoon ground ginger', '1 teaspoon salt', '1 tablespoon garam masala', '1 cup plain yogurt', '2 lb ground beef or lamb', '8 buns', 'fresh Thai basil leaves (1 cup)'],
     instructions: [
       {
         step: 1,
@@ -362,7 +362,7 @@ app.locals.recipes = [
       },
       {
         step: 5,
-        instruction: 'Masala: Sauté the onion over medium-high heat in the remaining tbsp of butter until translucent. Add the garlic. Add the tomatoes adn their juice to the onions and keep the mixture at a simmer. Add in the cumin, curry powder, and ginger. Wait for the tomatoes "to sweat" -- release their liquid. Add in the salt and masala. Let the mixture reduce for about 10 minutes, and then remove from heat. Give it some time to cool (unit you can touch it without burning your finger).'
+        instruction: 'Masala: Sauté the onion over medium-high heat in the remaining tablespoon of butter until translucent. Add the garlic. Add the tomatoes and their juice to the onions and keep the mixture at a simmer. Add in the cumin, curry powder, and ginger. Wait for the tomatoes "to sweat" -- release their liquid. Add in the salt and masala. Let the mixture reduce for about 10 minutes, and then remove from heat. Give it some time to cool (unit you can touch it without burning your finger).'
       },
       {
         step: 6,
@@ -388,11 +388,11 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'How French can we get? This French! This thyme-seasoned burger is topped with caramelized shallots, has a creamy chèvre spread, and is served on a fresh French bread-style roll.',
-    ingredients: ['10 small shallots', '3 tbsp butter', '1 tbsp red wine vinegar', '2 sprigs rosemary', '2 sprigs sage', '1 lb ground beef', '1 tsp chopped fresh thyme', '1 4-ounce log chèvre', '4 French rolls', 'Arugula'],
+    ingredients: ['10 small shallots', '3 tablespoons butter', '1 tablespoon red wine vinegar', '2 sprigs rosemary', '2 sprigs sage', '1 lb ground beef', '1 teaspoon chopped fresh thyme', '1 4-ounce log chèvre', '4 French rolls', 'Arugula'],
     instructions: [
       {
         step: 1,
-        instruction: 'This is a garlic peeling technique that works for shallots too: Put your shallots in a bowl adn cover them with boiling water. Let them sit for about 10 minutes. Remove from the water, cut the root end off, peel them, and then slice into slivers.'
+        instruction: 'This is a garlic peeling technique that works for shallots too: Put your shallots in a bowl and cover them with boiling water. Let them sit for about 10 minutes. Remove from the water, cut the root end off, peel them, and then slice into slivers.'
       },
       {
         step: 2,
@@ -414,7 +414,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Perfect patties topped with sautéed mushrooms and smothered in muenster cheese, with a dollop of ketchup and lettuce for a bit of color. Muenster is a pretty subtle cheese, but it adds a lot of texture to this burger. (Muenster also happens to be number four on Gene\’s “Cheeses That Please Me” list. Check often, he updates that list frequently.)',
-    ingredients: ['1 10-ounce package white button mushrooms, sliced', '2 tbsp butter', '1 lb ground beef', '8 thick slices of Muenster cheese', '4 buns', 'green leaf lettuce', 'ketchup'],
+    ingredients: ['1 10-ounce package white button mushrooms, sliced', '2 tablespoons butter', '1 lb ground beef', '8 thick slices of Muenster cheese', '4 buns', 'green leaf lettuce', 'ketchup'],
     instructions: [
       {
         step: 1,
@@ -440,7 +440,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'An all-beef patty topped with a mixture of orange lentils, serrano chiles, garlic, and onions. A light spread of herb-coated chèvre cheese and some fresh spinach finish it off with a rich, over-the-top flavor. We\’re talking about Over the Top, the movie—this hamburger tastes like arm wrestling. Adding ginger, honey, garlic, serrano chiles, and onions makes the lentils come alive with flavor (once the lentils come to life, you must feed them three times a day).',
-    ingredients: ['1 cup dried orange lentils', '5 cloves garlic, minced', '1/2 green bell pepper, diced', '2 celery stalks, finely diced', '1/2 onion, diced', '3 serrano chiles, seeded and finely diced', 'olive oil', '1 tbsp honey', '2 tsp ground ginger', '1 lb ground beef', '4 buns', '1 4-ounce log chèvre, room temperature', '1 bag baby spinach'],
+    ingredients: ['1 cup dried orange lentils', '5 cloves garlic, minced', '1/2 green bell pepper, diced', '2 celery stalks, finely diced', '1/2 onion, diced', '3 serrano chiles, seeded and finely diced', 'olive oil', '1 tablespoon honey', '2 teaspoons ground ginger', '1 lb ground beef', '4 buns', '1 4-ounce log chèvre, room temperature', '1 bag baby spinach'],
     instructions: [
       {
         step: 1,
@@ -452,7 +452,7 @@ app.locals.recipes = [
       },
       {
         step: 3,
-        instruction: 'When the lentils are cooked, drain them, and add the honey and sautéed vegetables. Add in the ginger adn thoroughly combine.'
+        instruction: 'When the lentils are cooked, drain them, and add the honey and sautéed vegetables. Add in the ginger and thoroughly combine.'
       },
       {
         step: 4,
@@ -460,7 +460,7 @@ app.locals.recipes = [
       },
       {
         step: 5,
-        instruction: 'Build your own burger: Spread the chèvre on the bottom bun, add a handful of baby spinach, the burger, a heaping pile of lentils, and the top bun. Give this burger out at Halloween instead of candy.'
+        instruction: 'Build your burger: Spread the chèvre on the bottom bun, add a handful of baby spinach, the burger, a heaping pile of lentils, and the top bun. Give this burger out at Halloween instead of candy.'
       }
     ],
   },
@@ -470,7 +470,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: "6 sliders", 
     description: 'All-beef sliders topped with sautéed zucchini, yellow bell pepper, and a dill infused yogurt sauce. Serve with a side of sweet potato fries.',
-    ingredients: ['sweet potatoes', '1 lb ground beef', '2 zucchini, sliced into rounds', '1 tbsp olive oil', '1 yellow bell pepper, finely diced', '1 tbsp chopped fresh dill', '1 cup plain yogurt', '6 slider buns -- look for mini Brioche slider buns'],
+    ingredients: ['sweet potatoes', '1 lb ground beef', '2 zucchini, sliced into rounds', '1 tablespoon olive oil', '1 yellow bell pepper, finely diced', '1 tablespoon chopped fresh dill', '1 cup plain yogurt', '6 slider buns -- look for mini Brioche slider buns'],
     instructions: [
       {
         step: 1,
@@ -504,7 +504,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Pickles are good. Fried pickles are even better. Which means that a burger with fried pickles is the greatest thing in the history of the world. This all-beef patty is topped with delicious dill chips coated in an herb and red pepper batter and served with a creamy mayo–ketchup–hot sauce combo.',
-    ingredients: ['vegetable or canola oil for frying', '1/3 cup flour', '1/3 cup cornmeal', '1 egg', '1 tbsp Italian seasoning', '1 tsp crushed red pepper flakes', '1 16-ounce jar kosher dill pickle chips', '4 buns', '1/2 cup mayonnaise', '1 tbsp Frank\'s Red Hot sauce, or to taste', '1 tsp ketchup, or to taste', '1 lb ground beef', 'green leaf lettuce'],
+    ingredients: ['vegetable or canola oil for frying', '1/3 cup flour', '1/3 cup cornmeal', '1 egg', '1 tablespoon Italian seasoning', '1 teaspoon crushed red pepper flakes', '1 16-ounce jar kosher dill pickle chips', '4 buns', '1/2 cup mayonnaise', '1 tablespoon Frank\'s Red Hot sauce, or to taste', '1 teaspoon ketchup, or to taste', '1 lb ground beef', 'green leaf lettuce'],
     instructions: [
       {
         step: 1,
@@ -538,11 +538,11 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'This sweet burger comes with bacon and a tropical guava barbecue sauce. To make it even sweeter and even more tropical, you can optionally add a ring of grilled pineapple.',
-    ingredients: ['4 tbsp tomato paste', '1 10-ounce jar guava jelly', '1/4 cup rum', '1 tsp Worcestershire sauce', '1 tsp tamari (or soy sauce)', '1 tbsp ground ginger', '1/2 lb bacon', '1 lb ground beef', '4 buns', '4 pineapple rings, sliced 1/4-inch thick', 'green leaf lettuce'],
+    ingredients: ['4 tablespoons tomato paste', '1 10-ounce jar guava jelly', '1/4 cup rum', '1 teaspoon Worcestershire sauce', '1 teaspoon tamari (or soy sauce)', '1 tablespoon ground ginger', '1/2 lb bacon', '1 lb ground beef', '4 buns', '4 pineapple rings, sliced 1/4-inch thick', 'green leaf lettuce'],
     instructions: [
       {
         step: 1,
-        instruction: 'Stir the tomato paste, guava jelly, rum, Worcestershire, and tamari (or soy sauce) together in a saucepan on low heat until the guava jelly fully liquefies. Up the heat to medium and bring it to a simmer. Mix in the ginger adn stir for about a minute. Set aside.'
+        instruction: 'Stir the tomato paste, guava jelly, rum, Worcestershire, and tamari (or soy sauce) together in a saucepan on low heat until the guava jelly fully liquefies. Up the heat to medium and bring it to a simmer. Mix in the ginger and stir for about a minute. Set aside.'
       },
       {
         step: 2,
@@ -564,7 +564,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'This burger is a bit of a challenge—like breathing quietly through your nose—but it definitely is tasty. Cheese-stuffed poblano peppers, grilled, battered, and fried, served on top of a hamburger, all on a toasted bun. It\’s a great combo, even if it does look like a pepper got confused and took a nap on a burger.',
-    ingredients: ['2 large poblano peppers, halved and seeded', '4 eggs, at room temperature', '1 cup shredded Monterey Jack cheese', 'canola oil, for frying', '1 lb ground beef', '1/2 tsp salt', '1 tbsp paprika', '2 tsp cumin', '4 buns', 'green leaf lettuce'],
+    ingredients: ['2 large poblano peppers, halved and seeded', '4 eggs, at room temperature', '1 cup shredded Monterey Jack cheese', 'canola oil, for frying', '1 lb ground beef', '1/2 teaspoon salt', '1 tablespoon paprika', '2 teaspoons cumin', '4 buns', 'green leaf lettuce'],
     instructions: [
       {
         step: 1,
@@ -602,11 +602,11 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'This delicious all-beef burger comes with wilted red Swiss chard, caramelized onions, and creamy chèvre cheese on a French roll. You\’ll appreciate how the creamy cheese pairs with the wet and wilted Swiss chard so much, you\’ll wonder why France and Switzerland don\’t do more stuff together.',
-    ingredients: ['1 big bunch of Swiss chard, stalks removed, leaves cut into wide ribbons', '1 large yellow onion, chopped', '2 tbsp butter, divided', '1 lb ground beef', '3 cloves garlic, minced', '4 tbsp red wine vinegar', '1 4-ounce log chèvre, at room temperature', '4 French rolls'],
+    ingredients: ['1 big bunch of Swiss chard, stalks removed, leaves cut into wide ribbons', '1 large yellow onion, chopped', '2 tablespoons butter, divided', '1 lb ground beef', '3 cloves garlic, minced', '4 tablespoons red wine vinegar', '1 4-ounce log chèvre, at room temperature', '4 French rolls'],
     instructions: [
       {
         step: 1,
-        instruction: 'Melt 1 tbsp butter in a wide frying pan over medium-low heat. Add the onion adn stir to coat. Cook over medium-low heat, stirring occasionally, until the onions are very soft and a deep, sticky golden-brown, about 20-30 minutes.'
+        instruction: 'Melt 1 tablespoon butter in a wide frying pan over medium-low heat. Add the onion and stir to coat. Cook over medium-low heat, stirring occasionally, until the onions are very soft and a deep, sticky golden-brown, about 20-30 minutes.'
       },
       {
         step: 2,
@@ -614,7 +614,7 @@ app.locals.recipes = [
       },
       {
         step: 3,
-        instruction: 'Combine the garlic and 1 tbsp butter in a frying pan and set over medium-high heat. When the garlic becomes aromatic, throw in all of the chard leaves. How will you know when the garlic has become aromatic? Your kitchen will smell like an amazing garlic storm just blew in. Cook the chard down until the leaves are dark green, wilted, and wet. Remove from heat and mix the vinegar in with the chard and garlic.'
+        instruction: 'Combine the garlic and 1 tablespoon butter in a frying pan and set over medium-high heat. When the garlic becomes aromatic, throw in all of the chard leaves. How will you know when the garlic has become aromatic? Your kitchen will smell like an amazing garlic storm just blew in. Cook the chard down until the leaves are dark green, wilted, and wet. Remove from heat and mix the vinegar in with the chard and garlic.'
       },
       {
         step: 4,
@@ -628,7 +628,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'This is an all-beef burger served on a bed of fresh baby spinach topped with enoki mushrooms and carrots braised in a soy-ginger-sake broth. You could also substitute a tuna burger here. If you do, use freshly ground tuna from your fishmonger. Don\’t have a fishmonger? Get one. Who are you going to trust to mong your fish if not a fishmonger. Enoki mushrooms are definitely odd-looking and their mild taste is hard to describe, but their deliciousness once infused with these amazing Asian flavors will have you thinking that enoki mushrooms look normal and it\’s everything else that looks weird.',
-    ingredients: ['1 tbsp canola oil', '2 carrots, peeled and cut into matchsticks (about 1 cup)', '1/4 cup minced or grated ginger', '6 ounces enoki mushrooms, washed well', '1/4 cup sake', '1 tbsp soy sauce', '1 lb ground beef or tuna', '1 bag baby spinach', '4 buns'],
+    ingredients: ['1 tablespoon canola oil', '2 carrots, peeled and cut into matchsticks (about 1 cup)', '1/4 cup minced or grated ginger', '6 ounces enoki mushrooms, washed well', '1/4 cup sake', '1 tablespoon soy sauce', '1 lb ground beef or tuna', '1 bag baby spinach', '4 buns'],
     instructions: [
       {
         step: 1,
@@ -650,11 +650,11 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'This burger features an all-beef patty topped with egg salad, served on a kaiser roll. Flavor and protein. That sums up this burger and is also a good name for a ventriloquism act.',
-    ingredients: ['7 eggs', '1 tsp vinegar', '1/3 cup mayo', '1 tsp juice from a jar of sweet pickles', '1 tsp spicy brown mustard', '1 tsp paprika', '1 lb ground beef', '1 tsp pepper', '4 buns'],
+    ingredients: ['7 eggs', '1 teaspoon vinegar', '1/3 cup mayo', '1 teaspoon juice from a jar of sweet pickles', '1 teaspoon spicy brown mustard', '1 teaspoon paprika', '1 lb ground beef', '1 teaspoon pepper', '4 buns'],
     instructions: [
       {
         step: 1,
-        instruction: 'Cover the eggs with cold water in a medium sized pot. Add a pinch of salt and 1 tsp vinegar. Heat uncovered on medium high until the water reaches a rolling boil. Remove from heat and cover for 10 minutes before draining.'
+        instruction: 'Cover the eggs with cold water in a medium sized pot. Add a pinch of salt and 1 teaspoon vinegar. Heat uncovered on medium high until the water reaches a rolling boil. Remove from heat and cover for 10 minutes before draining.'
       },
       {
         step: 2,
@@ -684,7 +684,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'An all-beef patty topped with Mediterranean meze-platter favorites: homemade roasted red peppers and garlicky hummus. This turns your burger into a real chickpea magnet. Get it? Because hummus is made from chickpeas? Never mind. Optionally, you could use a mixture of ground beef and lamb called lula, found at Middle Eastern butchers or markets, for this recipe.',
-    ingredients: ['2 large red peppers, stemmed, halved, cored, and seeded', '1 14.5-ounce can cannellini beans', '1 14.5-ounce can garbanzo beans', '1 1/2 tsp lemon juice', '1 tbsp minced garlic', '1/4 cup olive oil', '2 tbsp sesame oil (or tahini, if you have it)', '1 tsp salt', '1 tsp black pepper', '1 lb ground beef', 'green leaf lettuce', '4 buns'],
+    ingredients: ['2 large red peppers, stemmed, halved, cored, and seeded', '1 14.5-ounce can cannellini beans', '1 14.5-ounce can garbanzo beans', '1 1/2 teaspoons lemon juice', '1 tablespoon minced garlic', '1/4 cup olive oil', '2 tablespoons sesame oil (or tahini, if you have it)', '1 teaspoon salt', '1 teaspoon black pepper', '1 lb ground beef', 'green leaf lettuce', '4 buns'],
     instructions: [
       {
         step: 1,
@@ -710,12 +710,28 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Be hungry. Be very hungry. You\’ll want to savor this all-beef patty topped with pepper jack cheese, lettuce, tomato, and of course, the “3 C\’s”—a combo of: cauliflower, cumin, and cilantro.',
-    ingredients: [],
+    ingredients: ['1 head cauliflower', '1 generous tablespoon olive oil', '1/2 cup whole milk', '2 tablespoons chpped cilantro', '1 tablespoon cumin', '3 teaspoons fresh lime juice', '1 lb ground beef', '4 slices pepper jack cheese', '4 buns', 'green leaf lettuce', '1 large tomato, thickly sliced'],
     instructions: [
       {
         step: 1,
-        instruction: ''
+        instruction: 'Preheat your oven to 400\u00B0F. Wrap the head of cauliflower in a clean kitchen towel, and smash it on the counter until the florets have all been separated from the stem.'
       },
+      {
+        step: 2,
+        instruction: 'Spread the cauliflower florets on a baking sheet and drizzle with olive oil. Roast in oven for about 15 minutes. Toss and then roast for another 15 minutes.'
+      },
+      {
+        step: 3,
+        instruction: 'Transfer the cauliflower to a large bowl and add the milk, cilantro, and cumin. Mash until you have a chunky mashed potato-like texture. Add one teaspoon of the lime juice and mix.'
+      },
+      {
+        step: 4,
+        instruction: 'Form the beef into 4 patties, season both sides with salt and pepper, and cook the burgers. While the burgers cook, drizzle the remaining lime juice over them. Melt a slice of pepper jack cheese on each.'
+      },
+      {
+        step: 5,
+        instruction: 'Build your burger: Bottom bun, lettuce, cheeseburger, tomato, cauliflower mash, top bun. If the phone rings, don\'t answer it. Just keep eating. Seriously, why would you answer the phone during dinner? It\'s rude. Sorry, I didn\'t mean to get you upset, I just thought we were trying to have a nice meal here.'
+      }
     ],
   },
   {
@@ -724,7 +740,7 @@ app.locals.recipes = [
     price: '$5.95',
     servings: 4, 
     description: 'Three unique, totally delicious sliders, all on polenta “buns”: First, an all-beef slider topped with delicious roasted grape tomatoes and mozzarella cheese, dusted with herb-infused olive oil. Second, a grilled portobello mushroom topped with a red wine reduction, mozzarella cheese, and a layer of fresh arugula. Third, we go back to the beef, with a slider topped with a creamy spinach and artichoke dip.',
-    ingredients: [],
+    ingredients: ['1 cup grape tomatoes', '4 tablespoons olive oil, divided', '4 sprigs fresh rosemary'],
     instructions: [
       {
         step: 1,
