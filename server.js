@@ -11,10 +11,6 @@ app.set('port', process.env.PORT || 3001);
 app.locals.title = 'Burger-of-the-Day';
 app.locals.recipes = recipes;
 
-app.get('/', (request, response) => {
-  response.send('Hello World!')
-})
-
 app.get('/api/v1/recipes', (request, response) => {
   const recipes = app.locals.recipes;
   response.json({ recipes });
